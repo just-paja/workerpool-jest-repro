@@ -1,0 +1,23 @@
+{
+  "name": "workerpool-jest-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-paja/workerpool-jest-repro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/just-paja/workerpool-jest-repro/issues"
+  },
+  "homepage": "https://github.com/just-paja/workerpool-jest-repro#readme",
+  "dependencies": {
+    "jest": "^24.9.0",
+    "workerpool": "^4.0.0"
+  }
+}
