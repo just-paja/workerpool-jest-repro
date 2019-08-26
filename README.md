@@ -1,3 +1,7 @@
+Issue has been fixed in https://github.com/josdejong/workerpool/issues/85
+
+*Outdated readme*
+
 To reproduce issue, run
 
 ```
