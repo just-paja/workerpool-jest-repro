@@ -18,6 +18,6 @@
   "homepage": "https://github.com/just-paja/workerpool-jest-repro#readme",
   "dependencies": {
     "jest": "^24.9.0",
-    "workerpool": "^4.0.0"
+    "workerpool": "^5.0.0"
   }
 }
